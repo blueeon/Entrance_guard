@@ -1,4 +1,5 @@
 # 基于Arduino和esp32cam的无线智能门禁
+> 学习项目
 ## Features
 1. 支持四种开门方式：
    1. 刷卡开门(NFC读写)
